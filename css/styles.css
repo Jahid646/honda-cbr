@@ -3,3 +3,15 @@
 body{
     font-family: 'Red Hat Display', sans-serif;
 }
+.orange{
+    color: #E76F51;
+}
+.btn-orange{
+    background-color: #E76F51;;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
+.client-name{
+    color: #23A6F0;
+}
