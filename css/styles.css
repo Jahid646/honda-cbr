@@ -3,6 +3,9 @@
 body{
     font-family: 'Red Hat Display', sans-serif;
 }
+.bg-header{
+    background-color: #264653;
+}
 .orange{
     color: #E76F51;
 }
